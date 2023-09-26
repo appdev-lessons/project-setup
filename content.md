@@ -6,7 +6,7 @@ Follow these instructions to fork a project to your personal GitHub account, ope
 
 Please read the lesson below. But, for future reference, here are some quick links:
 
-* [Setup a Codespace environment](https://learn.firstdraft.com/lessons/47-codespaces-setup)
+* [Setup a codespace environment](https://learn.firstdraft.com/lessons/47-codespaces-setup)
 * [Git commit and push to save your work](https://learn.firstdraft.com/lessons/50-git-commit-and-push)
 * [Get automated `rake grade` feedback](https://learn.firstdraft.com/lessons/125-using-rake-grade)
 
@@ -68,7 +68,7 @@ GitHub Codespaces is a great new service that provides instantaneous, full-fledg
 
 ### Getting started With Codespaces
 
-To setup a Codespaces environment, all you need to do is follow [these instructions to open and manage your Codespace environment](https://learn.firstdraft.com/lessons/47-codespaces-setup).
+To setup a codespace, all you need to do is follow [these instructions to open and manage your codespace](https://learn.firstdraft.com/lessons/47-codespaces-setup).
 
 Importantly, whenever you are working on any project, **don't forget to commit and push using our Git workflow so that your work is saved on GitHub**. [Follow these instructions for those steps](https://learn.firstdraft.com/lessons/50-git-commit-and-push).
 
