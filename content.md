@@ -16,8 +16,7 @@ When you load a Grades project, you'll arrive at a page with several links.
 
 Your first step will be to open the link that looks like `appdev-projects/<project-name>` in a new tab:
 
-<!-- ![](/assets/launch-hello-world-fork.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1689100920/launch-hello-world-fork_c8kapv.png)
+![](/assets/launch-hello-world-fork.png)
 
 This will take you to my copy of the project, containing any starter code, on GitHub.com. "Repository" is Git's term for "a folder containing code". We also often say "repo", for short.
 
@@ -25,22 +24,19 @@ The next step is to create your own copy of the starter code, so that you can sa
 
 On my repo's page (i.e. `github.com/appdev-projects/<project-name>`), click on the "Fork" button in the top-right:
 
-<!-- ![](/assets/launch-grades-project-2.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1686701065/launch-grades-project-2_hduxmk.png)
+![](/assets/launch-grades-project-2.png)
 
 On the "Create a new fork" page, make sure that your personal GitHub username is set as the "Owner" and that your copy's name is the same as mine. 
 
 Now click "Create fork":
 
-<!-- ![](/assets/launch-grades-project-3.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1686701280/launch-grades-project-3_tnau3z.png)
+![](/assets/launch-grades-project-3.png)
 
 It will take a few seconds to make a copy, and then you should end up on a page for your own fork of the repository.
 
 If all went well, you should see `github.com/<your-username>/<project-name>` in your address bar, and a note "forked from `appdev-projects/<project-name>`":
 
-<!-- ![](/assets/launch-grades-project-4.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1686701561/launch-grades-project-4_zpnslw.png)
+![](/assets/launch-grades-project-4.png)
 
 ## GitHub Codespaces
 
