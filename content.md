@@ -10,7 +10,39 @@ Please read the lesson below. But, for future reference, here are some quick lin
 * [Git commit and push to save your work](https://learn.firstdraft.com/lessons/50-git-commit-and-push)
 * [Get automated `rake grade` feedback](https://learn.firstdraft.com/lessons/125-using-rake-grade)
 
-## Fork the project
+## Fork the project repository
+
+When you load a Grades project, you'll arrive at a page with several links.
+
+Your first step will be to open link to fork the project:
+
+---
+
+![](/assets/launch-hello-world-fork.png)
+
+---
+
+This will take you to my copy of the project, containing any starter code, on GitHub.com. "Repository" is Git's term for "a folder containing code". We also often say "repo", for short.
+
+The next step is to create your own copy of the starter code, so that you can save your work and have it forever. GitHub calls these copies "forks".
+
+On the "Create a new fork" page, make sure that your personal GitHub username is set as the "Owner" and that your copy's name is the same as mine.
+
+Now click "Create fork":
+
+---
+
+![](/assets/launch-grades-project-3.png)
+
+---
+
+It will take a few seconds to make a copy, and then you should end up on a page for your own fork of the repository.
+
+If all went well, you should see `github.com/<your-username>/<project-name>` in your address bar, and a note "forked from `appdev-projects/<project-name>`":
+
+![](/assets/launch-grades-project-4.png)
+
+---
 
 When you load a Grades project, you'll arrive at a page with several links.
 
